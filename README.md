@@ -1,8 +1,8 @@
-# Angular ES6 Boilerplate "Penguin Edition"
+# Vue.js + Material Design Boilerplate "Penguin Edition"
 
 Created by Daniel Gacitua
 
-This is a boilerplate template based on Angular 1.6 and Webpack 2 for starting frontend projects. It uses ECMAScript 6 standard for Javascript with class-oriented design.
+This is a boilerplate template based on Vue.js 2.x with Material Design for starting frontend projects. It uses ECMAScript 6 standard for Javascript.
 
 This template uses the following technologies:
 
